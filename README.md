@@ -11,7 +11,7 @@ CSS practice
 # Latihan 04
 ![Alt Text](https://github.com/Aryodjat1/CSS/blob/99dfadb1b404af04c42895cea403e08e08ceca52/ScreenShoot/Latihan%2004.jpeg)
 # Latihan 05
-![Alt Text]()
+![Alt Text](https://github.com/Aryodjat1/CSS/blob/132e42ecbb4d0b9597d7acdfa769141b4c823342/ScreenShoot/Latihan%2005.png)
 # Latihan 06
 ![Alt Text](https://github.com/Aryodjat1/CSS/blob/99dfadb1b404af04c42895cea403e08e08ceca52/ScreenShoot/Latihan%2006.jpeg)
 # Latihan 07
